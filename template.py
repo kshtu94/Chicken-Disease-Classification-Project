@@ -54,7 +54,7 @@ list_of_files = [
     # Why are we using this resource Folder , bcoz before performing any or building any actual components, 
     # I'll perform some Notebook Experiments.
     "resource/trials.ipynb",
-    "test.py"
+    "templates/index.html",
 
 # So for now these are the files that I need Unitl now , if i need something else we'll edit here.
 
